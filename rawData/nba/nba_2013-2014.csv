@@ -1,0 +1,449 @@
+Home_id;Away_id;Bookmaker;OddHome;OddAway;Date;Score_home;Score_away;Season
+Houston Rockets;Portland Trail Blazers;bet-at-home;-250;+185;21 Apr 2014;120;122;2013-2014
+Houston Rockets;Portland Trail Blazers;bet365;-238;+195;21 Apr 2014;120;122;2013-2014
+Houston Rockets;Portland Trail Blazers;bwin;-233;+190;21 Apr 2014;120;122;2013-2014
+Houston Rockets;Portland Trail Blazers;Marathonbet;-217;+198;21 Apr 2014;120;122;2013-2014
+Houston Rockets;Portland Trail Blazers;Pinnacle;-233;+204;21 Apr 2014;120;122;2013-2014
+Houston Rockets;Portland Trail Blazers;Unibet;-233;+185;21 Apr 2014;120;122;2013-2014
+Houston Rockets;Portland Trail Blazers;William Hill;-238;+200;21 Apr 2014;120;122;2013-2014
+Milwaukee Bucks;Atlanta Hawks;bet-at-home;-167;+125;17 Apr 2014;103;111;2013-2014
+Milwaukee Bucks;Atlanta Hawks;bet365;-156;+135;17 Apr 2014;103;111;2013-2014
+Milwaukee Bucks;Atlanta Hawks;bwin;-154;+129;17 Apr 2014;103;111;2013-2014
+Milwaukee Bucks;Atlanta Hawks;Marathonbet;-147;+135;17 Apr 2014;103;111;2013-2014
+Milwaukee Bucks;Atlanta Hawks;Pinnacle;-147;+133;17 Apr 2014;103;111;2013-2014
+Milwaukee Bucks;Atlanta Hawks;Unibet;-167;+135;17 Apr 2014;103;111;2013-2014
+Milwaukee Bucks;Atlanta Hawks;William Hill;-164;+145;17 Apr 2014;103;111;2013-2014
+Los Angeles Lakers;Golden State Warriors;bet-at-home;+359;-526;12 Apr 2014; 95;112;2013-2014
+Los Angeles Lakers;Golden State Warriors;bet365;+475;-667;12 Apr 2014; 95;112;2013-2014
+Los Angeles Lakers;Golden State Warriors;bwin;+400;-556;12 Apr 2014; 95;112;2013-2014
+Los Angeles Lakers;Golden State Warriors;Marathonbet;+430;-500;12 Apr 2014; 95;112;2013-2014
+Los Angeles Lakers;Golden State Warriors;Pinnacle;+430;-500;12 Apr 2014; 95;112;2013-2014
+Los Angeles Lakers;Golden State Warriors;Unibet;+425;-588;12 Apr 2014; 95;112;2013-2014
+Los Angeles Lakers;Golden State Warriors;William Hill;+375;-500;12 Apr 2014; 95;112;2013-2014
+Milwaukee Bucks;Cleveland Cavaliers;bet-at-home;+150;-200;12 Apr 2014;119;116;2013-2014
+Milwaukee Bucks;Cleveland Cavaliers;bet365;+175;-213;12 Apr 2014;119;116;2013-2014
+Milwaukee Bucks;Cleveland Cavaliers;bwin;+165;-200;12 Apr 2014;119;116;2013-2014
+Milwaukee Bucks;Cleveland Cavaliers;Marathonbet;+172;-189;12 Apr 2014;119;116;2013-2014
+Milwaukee Bucks;Cleveland Cavaliers;Pinnacle;+166;-185;12 Apr 2014;119;116;2013-2014
+Milwaukee Bucks;Cleveland Cavaliers;Unibet;+154;-189;12 Apr 2014;119;116;2013-2014
+Milwaukee Bucks;Cleveland Cavaliers;William Hill;+160;-179;12 Apr 2014;119;116;2013-2014
+Chicago Bulls;Detroit Pistons;bet-at-home;-625;+400;12 Apr 2014;106;98 ;2013-2014
+Chicago Bulls;Detroit Pistons;bet365;-625;+450;12 Apr 2014;106;98 ;2013-2014
+Chicago Bulls;Detroit Pistons;bwin;-625;+450;12 Apr 2014;106;98 ;2013-2014
+Chicago Bulls;Detroit Pistons;Marathonbet;-588;+509;12 Apr 2014;106;98 ;2013-2014
+Chicago Bulls;Detroit Pistons;Pinnacle;-556;+465;12 Apr 2014;106;98 ;2013-2014
+Chicago Bulls;Detroit Pistons;Unibet;-625;+440;12 Apr 2014;106;98 ;2013-2014
+Chicago Bulls;Detroit Pistons;William Hill;-714;+500;12 Apr 2014;106;98 ;2013-2014
+Philadelphia 76ers;Brooklyn Nets;bet-at-home;+525;-833;05 Apr 2014;101;105;2013-2014
+Philadelphia 76ers;Brooklyn Nets;bet365;+475;-667;05 Apr 2014;101;105;2013-2014
+Philadelphia 76ers;Brooklyn Nets;bwin;+480;-714;05 Apr 2014;101;105;2013-2014
+Philadelphia 76ers;Brooklyn Nets;Marathonbet;+509;-588;05 Apr 2014;101;105;2013-2014
+Philadelphia 76ers;Brooklyn Nets;Pinnacle;+545;-667;05 Apr 2014;101;105;2013-2014
+Philadelphia 76ers;Brooklyn Nets;Unibet;+500;-714;05 Apr 2014;101;105;2013-2014
+Philadelphia 76ers;Brooklyn Nets;William Hill;+450;-667;05 Apr 2014;101;105;2013-2014
+Washington Wizards;Chicago Bulls;bet-at-home;-143;+110;05 Apr 2014; 78;96 ;2013-2014
+Washington Wizards;Chicago Bulls;bet365;-141;+120;05 Apr 2014; 78;96 ;2013-2014
+Washington Wizards;Chicago Bulls;bwin;-137;+114;05 Apr 2014; 78;96 ;2013-2014
+Washington Wizards;Chicago Bulls;Marathonbet;-122;+112;05 Apr 2014; 78;96 ;2013-2014
+Washington Wizards;Chicago Bulls;Pinnacle;-135;+122;05 Apr 2014; 78;96 ;2013-2014
+Washington Wizards;Chicago Bulls;Unibet;-137;+112;05 Apr 2014; 78;96 ;2013-2014
+Washington Wizards;Chicago Bulls;William Hill;-130;+110;05 Apr 2014; 78;96 ;2013-2014
+Los Angeles Lakers;Dallas Mavericks;bet-at-home;+290;-400;05 Apr 2014; 95;107;2013-2014
+Los Angeles Lakers;Dallas Mavericks;bet365;+325;-435;05 Apr 2014; 95;107;2013-2014
+Los Angeles Lakers;Dallas Mavericks;bwin;+290;-370;05 Apr 2014; 95;107;2013-2014
+Los Angeles Lakers;Dallas Mavericks;Marathonbet;+380;-435;05 Apr 2014; 95;107;2013-2014
+Los Angeles Lakers;Dallas Mavericks;Pinnacle;+309;-357;05 Apr 2014; 95;107;2013-2014
+Los Angeles Lakers;Dallas Mavericks;Unibet;+280;-357;05 Apr 2014; 95;107;2013-2014
+Los Angeles Lakers;Dallas Mavericks;William Hill;+280;-357;05 Apr 2014; 95;107;2013-2014
+Houston Rockets;Oklahoma City Thunder;bet-at-home;-154;+120;05 Apr 2014;111;107;2013-2014
+Houston Rockets;Oklahoma City Thunder;bet365;-152;+129;05 Apr 2014;111;107;2013-2014
+Houston Rockets;Oklahoma City Thunder;bwin;-130;+110;05 Apr 2014;111;107;2013-2014
+Houston Rockets;Oklahoma City Thunder;Marathonbet;-130;+120;05 Apr 2014;111;107;2013-2014
+Houston Rockets;Oklahoma City Thunder;Pinnacle;-145;+131;05 Apr 2014;111;107;2013-2014
+Houston Rockets;Oklahoma City Thunder;Unibet;-139;+114;05 Apr 2014;111;107;2013-2014
+Houston Rockets;Oklahoma City Thunder;William Hill;-141;+120;05 Apr 2014;111;107;2013-2014
+Chicago Bulls;Milwaukee Bucks;bet-at-home;-1111;+650;05 Apr 2014;102;90 ;2013-2014
+Chicago Bulls;Milwaukee Bucks;bet365;-909;+600;05 Apr 2014;102;90 ;2013-2014
+Chicago Bulls;Milwaukee Bucks;bwin;-909;+600;05 Apr 2014;102;90 ;2013-2014
+Chicago Bulls;Milwaukee Bucks;Marathonbet;-769;+620;05 Apr 2014;102;90 ;2013-2014
+Chicago Bulls;Milwaukee Bucks;Pinnacle;-833;+638;05 Apr 2014;102;90 ;2013-2014
+Chicago Bulls;Milwaukee Bucks;Unibet;-909;+600;05 Apr 2014;102;90 ;2013-2014
+Chicago Bulls;Milwaukee Bucks;William Hill;-1000;+650;05 Apr 2014;102;90 ;2013-2014
+Philadelphia 76ers;Detroit Pistons;bet-at-home;+210;-286;29 Mar 2014;123;98 ;2013-2014
+Philadelphia 76ers;Detroit Pistons;bet365;+204;-250;29 Mar 2014;123;98 ;2013-2014
+Philadelphia 76ers;Detroit Pistons;bwin;+200;-250;29 Mar 2014;123;98 ;2013-2014
+Philadelphia 76ers;Detroit Pistons;Marathonbet;+240;-263;29 Mar 2014;123;98 ;2013-2014
+Philadelphia 76ers;Detroit Pistons;Pinnacle;+218;-244;29 Mar 2014;123;98 ;2013-2014
+Philadelphia 76ers;Detroit Pistons;Unibet;+210;-263;29 Mar 2014;123;98 ;2013-2014
+Philadelphia 76ers;Detroit Pistons;William Hill;+210;-250;29 Mar 2014;123;98 ;2013-2014
+Phoenix Suns;New York Knicks;bet-at-home;-250;+185;29 Mar 2014;112;88 ;2013-2014
+Phoenix Suns;New York Knicks;bet365;-263;+220;29 Mar 2014;112;88 ;2013-2014
+Phoenix Suns;New York Knicks;bwin;-250;+200;29 Mar 2014;112;88 ;2013-2014
+Phoenix Suns;New York Knicks;Marathonbet;-208;+190;29 Mar 2014;112;88 ;2013-2014
+Phoenix Suns;New York Knicks;Pinnacle;-244;+218;29 Mar 2014;112;88 ;2013-2014
+Phoenix Suns;New York Knicks;Unibet;-263;+204;29 Mar 2014;112;88 ;2013-2014
+Phoenix Suns;New York Knicks;William Hill;-250;+210;29 Mar 2014;112;88 ;2013-2014
+New York Knicks;Cleveland Cavaliers;bet-at-home;-714;+475;23 Mar 2014;100;106;2013-2014
+New York Knicks;Cleveland Cavaliers;bet365;-625;+450;23 Mar 2014;100;106;2013-2014
+New York Knicks;Cleveland Cavaliers;bwin;-588;+430;23 Mar 2014;100;106;2013-2014
+New York Knicks;Cleveland Cavaliers;Marathonbet;-476;+420;23 Mar 2014;100;106;2013-2014
+New York Knicks;Cleveland Cavaliers;Pinnacle;-500;+423;23 Mar 2014;100;106;2013-2014
+New York Knicks;Cleveland Cavaliers;Unibet;-714;+500;23 Mar 2014;100;106;2013-2014
+New York Knicks;Cleveland Cavaliers;William Hill;-588;+450;23 Mar 2014;100;106;2013-2014
+Utah Jazz;Memphis Grizzlies;bet-at-home;+290;-400;27 Mar 2014; 87;91 ;2013-2014
+Utah Jazz;Memphis Grizzlies;bet365;+325;-435;27 Mar 2014; 87;91 ;2013-2014
+Utah Jazz;Memphis Grizzlies;bwin;+340;-455;27 Mar 2014; 87;91 ;2013-2014
+Utah Jazz;Memphis Grizzlies;Marathonbet;+380;-435;27 Mar 2014; 87;91 ;2013-2014
+Utah Jazz;Memphis Grizzlies;Pinnacle;+358;-417;27 Mar 2014; 87;91 ;2013-2014
+Utah Jazz;Memphis Grizzlies;Unibet;+309;-417;27 Mar 2014; 87;91 ;2013-2014
+Utah Jazz;Memphis Grizzlies;William Hill;+290;-385;27 Mar 2014; 87;91 ;2013-2014
+Toronto Raptors;Atlanta Hawks;bet-at-home;-400;+290;23 Mar 2014; 96;86 ;2013-2014
+Toronto Raptors;Atlanta Hawks;bet365;-370;+290;23 Mar 2014; 96;86 ;2013-2014
+Toronto Raptors;Atlanta Hawks;bwin;-345;+275;23 Mar 2014; 96;86 ;2013-2014
+Toronto Raptors;Atlanta Hawks;Marathonbet;-333;+300;23 Mar 2014; 96;86 ;2013-2014
+Toronto Raptors;Atlanta Hawks;Pinnacle;-345;+305;23 Mar 2014; 96;86 ;2013-2014
+Toronto Raptors;Atlanta Hawks;Unibet;-303;+240;23 Mar 2014; 96;86 ;2013-2014
+Toronto Raptors;Atlanta Hawks;William Hill;-345;+275;23 Mar 2014; 96;86 ;2013-2014
+Los Angeles Clippers;Detroit Pistons;bet-at-home;-1429;+700;23 Mar 2014;112;103;2013-2014
+Los Angeles Clippers;Detroit Pistons;bet365;-1667;+900;23 Mar 2014;112;103;2013-2014
+Los Angeles Clippers;Detroit Pistons;bwin;-1429;+800;23 Mar 2014;112;103;2013-2014
+Los Angeles Clippers;Detroit Pistons;Marathonbet;-1000;+800;23 Mar 2014;112;103;2013-2014
+Los Angeles Clippers;Detroit Pistons;Pinnacle;-1429;+975;23 Mar 2014;112;103;2013-2014
+Los Angeles Clippers;Detroit Pistons;Unibet;-1429;+900;23 Mar 2014;112;103;2013-2014
+Los Angeles Clippers;Detroit Pistons;William Hill;-1667;+800;23 Mar 2014;112;103;2013-2014
+Chicago Bulls;Philadelphia 76ers;bet-at-home;-5000;+1200;23 Mar 2014; 91;81 ;2013-2014
+Chicago Bulls;Philadelphia 76ers;bet365;-2500;+1200;23 Mar 2014; 91;81 ;2013-2014
+Chicago Bulls;Philadelphia 76ers;bwin;-2000;+1000;23 Mar 2014; 91;81 ;2013-2014
+Chicago Bulls;Philadelphia 76ers;Marathonbet;-1250;+1000;23 Mar 2014; 91;81 ;2013-2014
+Chicago Bulls;Philadelphia 76ers;Pinnacle;-2000;+1200;23 Mar 2014; 91;81 ;2013-2014
+Chicago Bulls;Philadelphia 76ers;Unibet;-2000;+1150;23 Mar 2014; 91;81 ;2013-2014
+Chicago Bulls;Philadelphia 76ers;William Hill;-5000;+1600;23 Mar 2014; 91;81 ;2013-2014
+Boston Celtics;Detroit Pistons;bet-at-home;-125;-111;09 Mar 2014;118;111;2013-2014
+Boston Celtics;Detroit Pistons;bet365;-116;-105;09 Mar 2014;118;111;2013-2014
+Boston Celtics;Detroit Pistons;bwin;-110;-110;09 Mar 2014;118;111;2013-2014
+Boston Celtics;Detroit Pistons;Marathonbet;-104;-104;09 Mar 2014;118;111;2013-2014
+Boston Celtics;Detroit Pistons;Pinnacle;-110;+100;09 Mar 2014;118;111;2013-2014
+Boston Celtics;Detroit Pistons;Unibet;-114;-109;09 Mar 2014;118;111;2013-2014
+Boston Celtics;Detroit Pistons;William Hill;-115;-105;09 Mar 2014;118;111;2013-2014
+Washington Wizards;Memphis Grizzlies;bet-at-home;+100;-133;03 Mar 2014;104;110;2013-2014
+Washington Wizards;Memphis Grizzlies;bet365;+110;-132;03 Mar 2014;104;110;2013-2014
+Washington Wizards;Memphis Grizzlies;bwin;+110;-130;03 Mar 2014;104;110;2013-2014
+Washington Wizards;Memphis Grizzlies;Marathonbet;+120;-130;03 Mar 2014;104;110;2013-2014
+Washington Wizards;Memphis Grizzlies;Pinnacle;+108;-120;03 Mar 2014;104;110;2013-2014
+Washington Wizards;Memphis Grizzlies;Unibet;+108;-133;03 Mar 2014;104;110;2013-2014
+Washington Wizards;Memphis Grizzlies;William Hill;+110;-130;03 Mar 2014;104;110;2013-2014
+Oklahoma City Thunder;Charlotte Hornets;bet-at-home;-667;+450;02 Mar 2014;116;99 ;2013-2014
+Oklahoma City Thunder;Charlotte Hornets;bet365;-714;+500;02 Mar 2014;116;99 ;2013-2014
+Oklahoma City Thunder;Charlotte Hornets;bwin;-714;+480;02 Mar 2014;116;99 ;2013-2014
+Oklahoma City Thunder;Charlotte Hornets;Marathonbet;-667;+550;02 Mar 2014;116;99 ;2013-2014
+Oklahoma City Thunder;Charlotte Hornets;Pinnacle;-667;+555;02 Mar 2014;116;99 ;2013-2014
+Oklahoma City Thunder;Charlotte Hornets;Unibet;-769;+550;02 Mar 2014;116;99 ;2013-2014
+Oklahoma City Thunder;Charlotte Hornets;William Hill;-588;+450;02 Mar 2014;116;99 ;2013-2014
+Dallas Mavericks;Chicago Bulls;bet-at-home;-200;+150;01 Mar 2014; 91;100;2013-2014
+Dallas Mavericks;Chicago Bulls;bet365;-182;+160;01 Mar 2014; 91;100;2013-2014
+Dallas Mavericks;Chicago Bulls;bwin;-192;+160;01 Mar 2014; 91;100;2013-2014
+Dallas Mavericks;Chicago Bulls;Marathonbet;-185;+170;01 Mar 2014; 91;100;2013-2014
+Dallas Mavericks;Chicago Bulls;Pinnacle;-179;+159;01 Mar 2014; 91;100;2013-2014
+Dallas Mavericks;Chicago Bulls;Unibet;-189;+150;01 Mar 2014; 91;100;2013-2014
+Dallas Mavericks;Chicago Bulls;William Hill;-179;+150;01 Mar 2014; 91;100;2013-2014
+New York Knicks;Dallas Mavericks;bet-at-home;+110;-143;24 Feb 2014;108;110;2013-2014
+New York Knicks;Dallas Mavericks;bet365;+129;-152;24 Feb 2014;108;110;2013-2014
+New York Knicks;Dallas Mavericks;bwin;+129;-154;24 Feb 2014;108;110;2013-2014
+New York Knicks;Dallas Mavericks;Marathonbet;+138;-149;24 Feb 2014;108;110;2013-2014
+New York Knicks;Dallas Mavericks;Pinnacle;+124;-137;24 Feb 2014;108;110;2013-2014
+New York Knicks;Dallas Mavericks;Unibet;+125;-154;24 Feb 2014;108;110;2013-2014
+New York Knicks;Dallas Mavericks;William Hill;+125;-145;24 Feb 2014;108;110;2013-2014
+Los Angeles Lakers;Brooklyn Nets;bet-at-home;+120;-154;24 Feb 2014;102;108;2013-2014
+Los Angeles Lakers;Brooklyn Nets;bet365;+125;-147;24 Feb 2014;102;108;2013-2014
+Los Angeles Lakers;Brooklyn Nets;bwin;+135;-164;24 Feb 2014;102;108;2013-2014
+Los Angeles Lakers;Brooklyn Nets;Marathonbet;+129;-141;24 Feb 2014;102;108;2013-2014
+Los Angeles Lakers;Brooklyn Nets;Pinnacle;+127;-141;24 Feb 2014;102;108;2013-2014
+Los Angeles Lakers;Brooklyn Nets;Unibet;+125;-154;24 Feb 2014;102;108;2013-2014
+Los Angeles Lakers;Brooklyn Nets;William Hill;+120;-141;24 Feb 2014;102;108;2013-2014
+Portland Trail Blazers;Minnesota Timberwolves;bet-at-home;-167;+129;24 Feb 2014;108;97 ;2013-2014
+Portland Trail Blazers;Minnesota Timberwolves;bet365;-172;+150;24 Feb 2014;108;97 ;2013-2014
+Portland Trail Blazers;Minnesota Timberwolves;bwin;-167;+140;24 Feb 2014;108;97 ;2013-2014
+Portland Trail Blazers;Minnesota Timberwolves;Marathonbet;-175;+160;24 Feb 2014;108;97 ;2013-2014
+Portland Trail Blazers;Minnesota Timberwolves;Pinnacle;-167;+150;24 Feb 2014;108;97 ;2013-2014
+Portland Trail Blazers;Minnesota Timberwolves;Unibet;-172;+140;24 Feb 2014;108;97 ;2013-2014
+Portland Trail Blazers;Minnesota Timberwolves;William Hill;-169;+150;24 Feb 2014;108;97 ;2013-2014
+Los Angeles Lakers;Oklahoma City Thunder;bet-at-home;+450;-667;14 Feb 2014;103;107;2013-2014
+Los Angeles Lakers;Oklahoma City Thunder;bet365;+550;-833;14 Feb 2014;103;107;2013-2014
+Los Angeles Lakers;Oklahoma City Thunder;bwin;+500;-714;14 Feb 2014;103;107;2013-2014
+Los Angeles Lakers;Oklahoma City Thunder;Marathonbet;+509;-588;14 Feb 2014;103;107;2013-2014
+Los Angeles Lakers;Oklahoma City Thunder;Pinnacle;+545;-667;14 Feb 2014;103;107;2013-2014
+Los Angeles Lakers;Oklahoma City Thunder;Unibet;+500;-714;14 Feb 2014;103;107;2013-2014
+Los Angeles Lakers;Oklahoma City Thunder;William Hill;+550;-833;14 Feb 2014;103;107;2013-2014
+Golden State Warriors;Miami Heat;bet-at-home;-125;-111;13 Feb 2014;110;111;2013-2014
+Golden State Warriors;Miami Heat;bet365;+100;-120;13 Feb 2014;110;111;2013-2014
+Golden State Warriors;Miami Heat;bwin;-102;-118;13 Feb 2014;110;111;2013-2014
+Golden State Warriors;Miami Heat;Marathonbet;-106;-102;13 Feb 2014;110;111;2013-2014
+Golden State Warriors;Miami Heat;Pinnacle;-102;-108;13 Feb 2014;110;111;2013-2014
+Golden State Warriors;Miami Heat;Unibet;-114;-109;13 Feb 2014;110;111;2013-2014
+Golden State Warriors;Miami Heat;William Hill;-110;-110;13 Feb 2014;110;111;2013-2014
+New York Knicks;Denver Nuggets;bet-at-home;-143;+110;07 Feb 2014;117;90 ;2013-2014
+New York Knicks;Denver Nuggets;bet365;-135;+114;07 Feb 2014;117;90 ;2013-2014
+New York Knicks;Denver Nuggets;bwin;-130;+110;07 Feb 2014;117;90 ;2013-2014
+New York Knicks;Denver Nuggets;Marathonbet;-122;+112;07 Feb 2014;117;90 ;2013-2014
+New York Knicks;Denver Nuggets;Pinnacle;-125;+112;07 Feb 2014;117;90 ;2013-2014
+New York Knicks;Denver Nuggets;Unibet;-128;+104;07 Feb 2014;117;90 ;2013-2014
+New York Knicks;Denver Nuggets;William Hill;-130;+110;07 Feb 2014;117;90 ;2013-2014
+Orlando Magic;Oklahoma City Thunder;bet-at-home;+400;-588;07 Feb 2014;103;102;2013-2014
+Orlando Magic;Oklahoma City Thunder;bet365;+400;-526;07 Feb 2014;103;102;2013-2014
+Orlando Magic;Oklahoma City Thunder;bwin;+400;-556;07 Feb 2014;103;102;2013-2014
+Orlando Magic;Oklahoma City Thunder;Marathonbet;+470;-556;07 Feb 2014;103;102;2013-2014
+Orlando Magic;Oklahoma City Thunder;Pinnacle;+420;-500;07 Feb 2014;103;102;2013-2014
+Orlando Magic;Oklahoma City Thunder;Unibet;+425;-588;07 Feb 2014;103;102;2013-2014
+Orlando Magic;Oklahoma City Thunder;William Hill;+425;-556;07 Feb 2014;103;102;2013-2014
+Minnesota Timberwolves;Houston Rockets;bet-at-home;+170;-222;11 Feb 2014; 89;107;2013-2014
+Minnesota Timberwolves;Houston Rockets;bet365;+165;-185;11 Feb 2014; 89;107;2013-2014
+Minnesota Timberwolves;Houston Rockets;bwin;+160;-192;11 Feb 2014; 89;107;2013-2014
+Minnesota Timberwolves;Houston Rockets;Marathonbet;+170;-185;11 Feb 2014; 89;107;2013-2014
+Minnesota Timberwolves;Houston Rockets;Pinnacle;+156;-175;11 Feb 2014; 89;107;2013-2014
+Minnesota Timberwolves;Houston Rockets;Unibet;+160;-200;11 Feb 2014; 89;107;2013-2014
+Minnesota Timberwolves;Houston Rockets;William Hill;+160;-179;11 Feb 2014; 89;107;2013-2014
+Brooklyn Nets;San Antonio Spurs;bet-at-home;-250;+185;07 Feb 2014;103;89 ;2013-2014
+Brooklyn Nets;San Antonio Spurs;bet365;-270;+220;07 Feb 2014;103;89 ;2013-2014
+Brooklyn Nets;San Antonio Spurs;bwin;-233;+190;07 Feb 2014;103;89 ;2013-2014
+Brooklyn Nets;San Antonio Spurs;Marathonbet;-263;+240;07 Feb 2014;103;89 ;2013-2014
+Brooklyn Nets;San Antonio Spurs;Pinnacle;-263;+239;07 Feb 2014;103;89 ;2013-2014
+Brooklyn Nets;San Antonio Spurs;Unibet;-263;+210;07 Feb 2014;103;89 ;2013-2014
+Brooklyn Nets;San Antonio Spurs;William Hill;-263;+220;07 Feb 2014;103;89 ;2013-2014
+Indiana Pacers;New Orleans Pelicans;bet-at-home;-1000;+600;04 Jan 2014; 99;82 ;2013-2014
+Indiana Pacers;New Orleans Pelicans;bet365;-909;+575;04 Jan 2014; 99;82 ;2013-2014
+Indiana Pacers;New Orleans Pelicans;bwin;-909;+600;04 Jan 2014; 99;82 ;2013-2014
+Indiana Pacers;New Orleans Pelicans;Marathonbet;-769;+690;04 Jan 2014; 99;82 ;2013-2014
+Indiana Pacers;New Orleans Pelicans;Pinnacle;-769;+671;04 Jan 2014; 99;82 ;2013-2014
+Indiana Pacers;New Orleans Pelicans;Unibet;-909;+650;04 Jan 2014; 99;82 ;2013-2014
+Indiana Pacers;New Orleans Pelicans;William Hill;-833;+600;04 Jan 2014; 99;82 ;2013-2014
+Los Angeles Lakers;Utah Jazz;bet-at-home;-154;+120;04 Jan 2014;110;99 ;2013-2014
+Los Angeles Lakers;Utah Jazz;bet365;-156;+135;04 Jan 2014;110;99 ;2013-2014
+Los Angeles Lakers;Utah Jazz;bwin;-161;+135;04 Jan 2014;110;99 ;2013-2014
+Los Angeles Lakers;Utah Jazz;Marathonbet;-149;+140;04 Jan 2014;110;99 ;2013-2014
+Los Angeles Lakers;Utah Jazz;Pinnacle;-143;+129;04 Jan 2014;110;99 ;2013-2014
+Los Angeles Lakers;Utah Jazz;Unibet;-159;+129;04 Jan 2014;110;99 ;2013-2014
+Los Angeles Lakers;Utah Jazz;William Hill;-164;+145;04 Jan 2014;110;99 ;2013-2014
+Dallas Mavericks;Los Angeles Clippers;bet-at-home;+120;-154;04 Jan 2014;112;119;2013-2014
+Dallas Mavericks;Los Angeles Clippers;bet365;+114;-135;04 Jan 2014;112;119;2013-2014
+Dallas Mavericks;Los Angeles Clippers;bwin;+114;-137;04 Jan 2014;112;119;2013-2014
+Dallas Mavericks;Los Angeles Clippers;Marathonbet;+129;-139;04 Jan 2014;112;119;2013-2014
+Dallas Mavericks;Los Angeles Clippers;Pinnacle;+116;-128;04 Jan 2014;112;119;2013-2014
+Dallas Mavericks;Los Angeles Clippers;Unibet;+125;-154;04 Jan 2014;112;119;2013-2014
+Dallas Mavericks;Los Angeles Clippers;William Hill;+114;-135;04 Jan 2014;112;119;2013-2014
+San Antonio Spurs;New York Knicks;bet-at-home;-1000;+600;03 Jan 2014;101;105;2013-2014
+San Antonio Spurs;New York Knicks;bet365;-909;+600;03 Jan 2014;101;105;2013-2014
+San Antonio Spurs;New York Knicks;bwin;-909;+600;03 Jan 2014;101;105;2013-2014
+San Antonio Spurs;New York Knicks;Marathonbet;-909;+769;03 Jan 2014;101;105;2013-2014
+San Antonio Spurs;New York Knicks;Pinnacle;-769;+671;03 Jan 2014;101;105;2013-2014
+San Antonio Spurs;New York Knicks;Unibet;-909;+600;03 Jan 2014;101;105;2013-2014
+San Antonio Spurs;New York Knicks;William Hill;-769;+550;03 Jan 2014;101;105;2013-2014
+Indiana Pacers;Brooklyn Nets;bet-at-home;-1250;+700;28 Dec 2013;105;91 ;2013-2014
+Indiana Pacers;Brooklyn Nets;bet365;-1667;+900;28 Dec 2013;105;91 ;2013-2014
+Indiana Pacers;Brooklyn Nets;bwin;-1429;+800;28 Dec 2013;105;91 ;2013-2014
+Indiana Pacers;Brooklyn Nets;Marathonbet;-1111;+950;28 Dec 2013;105;91 ;2013-2014
+Indiana Pacers;Brooklyn Nets;Pinnacle;-1250;+925;28 Dec 2013;105;91 ;2013-2014
+Indiana Pacers;Brooklyn Nets;Unibet;-1250;+800;28 Dec 2013;105;91 ;2013-2014
+Indiana Pacers;Brooklyn Nets;William Hill;-1429;+800;28 Dec 2013;105;91 ;2013-2014
+Washington Wizards;Detroit Pistons;bet-at-home;-154;+120;28 Dec 2013;106;82 ;2013-2014
+Washington Wizards;Detroit Pistons;bet365;-167;+145;28 Dec 2013;106;82 ;2013-2014
+Washington Wizards;Detroit Pistons;bwin;-161;+135;28 Dec 2013;106;82 ;2013-2014
+Washington Wizards;Detroit Pistons;Marathonbet;-145;+136;28 Dec 2013;106;82 ;2013-2014
+Washington Wizards;Detroit Pistons;Pinnacle;-159;+144;28 Dec 2013;106;82 ;2013-2014
+Washington Wizards;Detroit Pistons;Unibet;-167;+135;28 Dec 2013;106;82 ;2013-2014
+Washington Wizards;Detroit Pistons;William Hill;-161;+140;28 Dec 2013;106;82 ;2013-2014
+Orlando Magic;Sacramento Kings;bet-at-home;-167;+129;21 Dec 2013;100;105;2013-2014
+Orlando Magic;Sacramento Kings;bet365;-152;+129;21 Dec 2013;100;105;2013-2014
+Orlando Magic;Sacramento Kings;bwin;-149;+125;21 Dec 2013;100;105;2013-2014
+Orlando Magic;Sacramento Kings;Marathonbet;-133;+125;21 Dec 2013;100;105;2013-2014
+Orlando Magic;Sacramento Kings;Pinnacle;-147;+133;21 Dec 2013;100;105;2013-2014
+Orlando Magic;Sacramento Kings;Unibet;-154;+125;21 Dec 2013;100;105;2013-2014
+Orlando Magic;Sacramento Kings;William Hill;-149;+129;21 Dec 2013;100;105;2013-2014
+New York Knicks;Memphis Grizzlies;bet-at-home;-154;+120;21 Dec 2013; 87;95 ;2013-2014
+New York Knicks;Memphis Grizzlies;bet365;-152;+129;21 Dec 2013; 87;95 ;2013-2014
+New York Knicks;Memphis Grizzlies;bwin;-154;+129;21 Dec 2013; 87;95 ;2013-2014
+New York Knicks;Memphis Grizzlies;Marathonbet;-156;+146;21 Dec 2013; 87;95 ;2013-2014
+New York Knicks;Memphis Grizzlies;Pinnacle;-147;+134;21 Dec 2013; 87;95 ;2013-2014
+New York Knicks;Memphis Grizzlies;Unibet;-159;+129;21 Dec 2013; 87;95 ;2013-2014
+New York Knicks;Memphis Grizzlies;William Hill;-149;+129;21 Dec 2013; 87;95 ;2013-2014
+Indiana Pacers;Houston Rockets;bet-at-home;-250;+185;21 Dec 2013;114;81 ;2013-2014
+Indiana Pacers;Houston Rockets;bet365;-250;+204;21 Dec 2013;114;81 ;2013-2014
+Indiana Pacers;Houston Rockets;Marathonbet;-233;+215;21 Dec 2013;114;81 ;2013-2014
+Indiana Pacers;Houston Rockets;Pinnacle;-233;+204;21 Dec 2013;114;81 ;2013-2014
+Indiana Pacers;Houston Rockets;Unibet;-233;+185;21 Dec 2013;114;81 ;2013-2014
+Indiana Pacers;Houston Rockets;William Hill;-233;+190;21 Dec 2013;114;81 ;2013-2014
+New York Knicks;Atlanta Hawks;bet365;-105;-116;14 Dec 2013;111;106;2013-2014
+New York Knicks;Atlanta Hawks;bwin;-115;-105;14 Dec 2013;111;106;2013-2014
+New York Knicks;Atlanta Hawks;Marathonbet;+104;-110;14 Dec 2013;111;106;2013-2014
+New York Knicks;Atlanta Hawks;Pinnacle;-108;-103;14 Dec 2013;111;106;2013-2014
+New York Knicks;Atlanta Hawks;Unibet;-111;-109;14 Dec 2013;111;106;2013-2014
+New York Knicks;Atlanta Hawks;William Hill;-115;-105;14 Dec 2013;111;106;2013-2014
+Washington Wizards;Los Angeles Clippers;bet-at-home;+150;-200;14 Dec 2013; 97;113;2013-2014
+Washington Wizards;Los Angeles Clippers;bet365;+175;-213;14 Dec 2013; 97;113;2013-2014
+Washington Wizards;Los Angeles Clippers;bwin;+165;-200;14 Dec 2013; 97;113;2013-2014
+Washington Wizards;Los Angeles Clippers;Marathonbet;+168;-179;14 Dec 2013; 97;113;2013-2014
+Washington Wizards;Los Angeles Clippers;Pinnacle;+167;-185;14 Dec 2013; 97;113;2013-2014
+Washington Wizards;Los Angeles Clippers;Unibet;+150;-182;14 Dec 2013; 97;113;2013-2014
+Washington Wizards;Los Angeles Clippers;William Hill;+175;-208;14 Dec 2013; 97;113;2013-2014
+Denver Nuggets;Utah Jazz;bet365;-667;+475;14 Dec 2013; 93;103;2013-2014
+Denver Nuggets;Utah Jazz;bwin;-667;+475;14 Dec 2013; 93;103;2013-2014
+Denver Nuggets;Utah Jazz;Marathonbet;-435;+395;14 Dec 2013; 93;103;2013-2014
+Denver Nuggets;Utah Jazz;Pinnacle;-526;+438;14 Dec 2013; 93;103;2013-2014
+Denver Nuggets;Utah Jazz;Unibet;-667;+475;14 Dec 2013; 93;103;2013-2014
+Denver Nuggets;Utah Jazz;William Hill;-667;+450;14 Dec 2013; 93;103;2013-2014
+Milwaukee Bucks;Chicago Bulls;bet365;+160;-182;14 Dec 2013; 90;91 ;2013-2014
+Milwaukee Bucks;Chicago Bulls;bwin;+160;-192;14 Dec 2013; 90;91 ;2013-2014
+Milwaukee Bucks;Chicago Bulls;Marathonbet;+156;-167;14 Dec 2013; 90;91 ;2013-2014
+Milwaukee Bucks;Chicago Bulls;Pinnacle;+160;-179;14 Dec 2013; 90;91 ;2013-2014
+Milwaukee Bucks;Chicago Bulls;Unibet;+140;-172;14 Dec 2013; 90;91 ;2013-2014
+Milwaukee Bucks;Chicago Bulls;William Hill;+150;-175;14 Dec 2013; 90;91 ;2013-2014
+Cleveland Cavaliers;Portland Trail Blazers;bet-at-home;+150;-200;17 Dec 2013;116;119;2013-2014
+Cleveland Cavaliers;Portland Trail Blazers;bet365;+160;-182;17 Dec 2013;116;119;2013-2014
+Cleveland Cavaliers;Portland Trail Blazers;bwin;+165;-200;17 Dec 2013;116;119;2013-2014
+Cleveland Cavaliers;Portland Trail Blazers;Marathonbet;+195;-208;17 Dec 2013;116;119;2013-2014
+Cleveland Cavaliers;Portland Trail Blazers;Pinnacle;+162;-179;17 Dec 2013;116;119;2013-2014
+Cleveland Cavaliers;Portland Trail Blazers;Unibet;+154;-192;17 Dec 2013;116;119;2013-2014
+Cleveland Cavaliers;Portland Trail Blazers;William Hill;+160;-179;17 Dec 2013;116;119;2013-2014
+New Orleans Pelicans;Detroit Pistons;bet-at-home;-143;+110;12 Dec 2013;111;106;2013-2014
+New Orleans Pelicans;Detroit Pistons;bet365;-147;+125;12 Dec 2013;111;106;2013-2014
+New Orleans Pelicans;Detroit Pistons;bwin;-137;+114;12 Dec 2013;111;106;2013-2014
+New Orleans Pelicans;Detroit Pistons;Marathonbet;-137;+129;12 Dec 2013;111;106;2013-2014
+New Orleans Pelicans;Detroit Pistons;Pinnacle;-133;+120;12 Dec 2013;111;106;2013-2014
+New Orleans Pelicans;Detroit Pistons;Unibet;-143;+118;12 Dec 2013;111;106;2013-2014
+New Orleans Pelicans;Detroit Pistons;William Hill;-145;+125;12 Dec 2013;111;106;2013-2014
+Phoenix Suns;Toronto Raptors;bet-at-home;-200;+150;07 Dec 2013;106;97 ;2013-2014
+Phoenix Suns;Toronto Raptors;bet365;-172;+150;07 Dec 2013;106;97 ;2013-2014
+Phoenix Suns;Toronto Raptors;bwin;-189;+154;07 Dec 2013;106;97 ;2013-2014
+Phoenix Suns;Toronto Raptors;Marathonbet;-156;+146;07 Dec 2013;106;97 ;2013-2014
+Phoenix Suns;Toronto Raptors;Pinnacle;-164;+147;07 Dec 2013;106;97 ;2013-2014
+Phoenix Suns;Toronto Raptors;Unibet;-167;+140;07 Dec 2013;106;97 ;2013-2014
+Phoenix Suns;Toronto Raptors;William Hill;-175;+150;07 Dec 2013;106;97 ;2013-2014
+Houston Rockets;Minnesota Timberwolves;bet-at-home;-333;+240;24 Nov 2013;112;101;2013-2014
+Houston Rockets;Minnesota Timberwolves;bet365;-270;+220;24 Nov 2013;112;101;2013-2014
+Houston Rockets;Minnesota Timberwolves;bwin;-263;+210;24 Nov 2013;112;101;2013-2014
+Houston Rockets;Minnesota Timberwolves;Marathonbet;-250;+235;24 Nov 2013;112;101;2013-2014
+Houston Rockets;Minnesota Timberwolves;Pinnacle;-244;+218;24 Nov 2013;112;101;2013-2014
+Houston Rockets;Minnesota Timberwolves;William Hill;-250;+210;24 Nov 2013;112;101;2013-2014
+Indiana Pacers;Philadelphia 76ers;bet-at-home;-2000;+900;23 Nov 2013;106;98 ;2013-2014
+Indiana Pacers;Philadelphia 76ers;bet365;-3333;+1400;23 Nov 2013;106;98 ;2013-2014
+Indiana Pacers;Philadelphia 76ers;bwin;-1667;+900;23 Nov 2013;106;98 ;2013-2014
+Indiana Pacers;Philadelphia 76ers;Marathonbet;-1250;+1100;23 Nov 2013;106;98 ;2013-2014
+Indiana Pacers;Philadelphia 76ers;Pinnacle;-3333;+1700;23 Nov 2013;106;98 ;2013-2014
+Indiana Pacers;Philadelphia 76ers;William Hill;-2000;+1000;23 Nov 2013;106;98 ;2013-2014
+Los Angeles Clippers;Sacramento Kings;bet-at-home;-769;+500;23 Nov 2013;103;102;2013-2014
+Los Angeles Clippers;Sacramento Kings;bet365;-714;+500;23 Nov 2013;103;102;2013-2014
+Los Angeles Clippers;Sacramento Kings;Marathonbet;-526;+470;23 Nov 2013;103;102;2013-2014
+Los Angeles Clippers;Sacramento Kings;Pinnacle;-667;+538;23 Nov 2013;103;102;2013-2014
+Los Angeles Clippers;Sacramento Kings;William Hill;-714;+500;23 Nov 2013;103;102;2013-2014
+Portland Trail Blazers;Chicago Bulls;bet-at-home;-182;+140;23 Nov 2013; 98;95 ;2013-2014
+Portland Trail Blazers;Chicago Bulls;bet365;-175;+154;23 Nov 2013; 98;95 ;2013-2014
+Portland Trail Blazers;Chicago Bulls;bwin;-175;+145;23 Nov 2013; 98;95 ;2013-2014
+Portland Trail Blazers;Chicago Bulls;Marathonbet;-143;+134;23 Nov 2013; 98;95 ;2013-2014
+Portland Trail Blazers;Chicago Bulls;Pinnacle;-167;+149;23 Nov 2013; 98;95 ;2013-2014
+Portland Trail Blazers;Chicago Bulls;William Hill;-175;+150;23 Nov 2013; 98;95 ;2013-2014
+San Antonio Spurs;Boston Celtics;bet-at-home;-5000;+1200;21 Nov 2013;104;93 ;2013-2014
+San Antonio Spurs;Boston Celtics;bet365;-2500;+1250;21 Nov 2013;104;93 ;2013-2014
+San Antonio Spurs;Boston Celtics;bwin;-2500;+1100;21 Nov 2013;104;93 ;2013-2014
+San Antonio Spurs;Boston Celtics;Marathonbet;-1111;+950;21 Nov 2013;104;93 ;2013-2014
+San Antonio Spurs;Boston Celtics;Pinnacle;-3333;+1650;21 Nov 2013;104;93 ;2013-2014
+San Antonio Spurs;Boston Celtics;William Hill;-2500;+900;21 Nov 2013;104;93 ;2013-2014
+Sacramento Kings;Portland Trail Blazers;bet-at-home;-133;+100;10 Nov 2013; 85;96 ;2013-2014
+Sacramento Kings;Portland Trail Blazers;bet365;-132;+110;10 Nov 2013; 85;96 ;2013-2014
+Sacramento Kings;Portland Trail Blazers;bwin;-130;+110;10 Nov 2013; 85;96 ;2013-2014
+Sacramento Kings;Portland Trail Blazers;Marathonbet;-116;+110;10 Nov 2013; 85;96 ;2013-2014
+Sacramento Kings;Portland Trail Blazers;Pinnacle;-125;+112;10 Nov 2013; 85;96 ;2013-2014
+Sacramento Kings;Portland Trail Blazers;William Hill;-130;+110;10 Nov 2013; 85;96 ;2013-2014
+Denver Nuggets;Los Angeles Lakers;bet-at-home;-500;+350;14 Nov 2013;111;99 ;2013-2014
+Denver Nuggets;Los Angeles Lakers;bet365;-500;+375;14 Nov 2013;111;99 ;2013-2014
+Denver Nuggets;Los Angeles Lakers;bwin;-500;+370;14 Nov 2013;111;99 ;2013-2014
+Denver Nuggets;Los Angeles Lakers;Marathonbet;-370;+340;14 Nov 2013;111;99 ;2013-2014
+Denver Nuggets;Los Angeles Lakers;Pinnacle;-455;+397;14 Nov 2013;111;99 ;2013-2014
+Denver Nuggets;Los Angeles Lakers;William Hill;-500;+350;14 Nov 2013;111;99 ;2013-2014
+San Antonio Spurs;Washington Wizards;bet-at-home;-667;+450;14 Nov 2013; 92;79 ;2013-2014
+San Antonio Spurs;Washington Wizards;bet365;-714;+500;14 Nov 2013; 92;79 ;2013-2014
+San Antonio Spurs;Washington Wizards;bwin;-667;+475;14 Nov 2013; 92;79 ;2013-2014
+San Antonio Spurs;Washington Wizards;Marathonbet;-588;+530;14 Nov 2013; 92;79 ;2013-2014
+San Antonio Spurs;Washington Wizards;Pinnacle;-667;+534;14 Nov 2013; 92;79 ;2013-2014
+San Antonio Spurs;Washington Wizards;William Hill;-588;+400;14 Nov 2013; 92;79 ;2013-2014
+Cleveland Cavaliers;Philadelphia 76ers;bet-at-home;-400;+290;09 Nov 2013;127;125;2013-2014
+Cleveland Cavaliers;Philadelphia 76ers;bet365;-385;+300;09 Nov 2013;127;125;2013-2014
+Cleveland Cavaliers;Philadelphia 76ers;bwin;-385;+300;09 Nov 2013;127;125;2013-2014
+Cleveland Cavaliers;Philadelphia 76ers;Marathonbet;-303;+275;09 Nov 2013;127;125;2013-2014
+Cleveland Cavaliers;Philadelphia 76ers;Pinnacle;-370;+318;09 Nov 2013;127;125;2013-2014
+Cleveland Cavaliers;Philadelphia 76ers;William Hill;-400;+300;09 Nov 2013;127;125;2013-2014
+Boston Celtics;Charlotte Hornets;bet-at-home;-250;+185;13 Nov 2013; 83;89 ;2013-2014
+Boston Celtics;Charlotte Hornets;bet365;-233;+190;13 Nov 2013; 83;89 ;2013-2014
+Boston Celtics;Charlotte Hornets;bwin;-233;+190;13 Nov 2013; 83;89 ;2013-2014
+Boston Celtics;Charlotte Hornets;Marathonbet;-222;+210;13 Nov 2013; 83;89 ;2013-2014
+Boston Celtics;Charlotte Hornets;Pinnacle;-222;+200;13 Nov 2013; 83;89 ;2013-2014
+Boston Celtics;Charlotte Hornets;William Hill;-233;+190;13 Nov 2013; 83;89 ;2013-2014
+Detroit Pistons;Boston Celtics;bet-at-home;-500;+350;03 Nov 2013; 87;77 ;2013-2014
+Detroit Pistons;Boston Celtics;bet365;-526;+400;03 Nov 2013; 87;77 ;2013-2014
+Detroit Pistons;Boston Celtics;bwin;-500;+375;03 Nov 2013; 87;77 ;2013-2014
+Detroit Pistons;Boston Celtics;Marathonbet;-500;+459;03 Nov 2013; 87;77 ;2013-2014
+Detroit Pistons;Boston Celtics;Pinnacle;-476;+412;03 Nov 2013; 87;77 ;2013-2014
+Detroit Pistons;Boston Celtics;William Hill;-500;+375;03 Nov 2013; 87;77 ;2013-2014
+Golden State Warriors;Sacramento Kings;bet-at-home;-667;+450;03 Nov 2013; 98;87 ;2013-2014
+Golden State Warriors;Sacramento Kings;bet365;-769;+550;03 Nov 2013; 98;87 ;2013-2014
+Golden State Warriors;Sacramento Kings;bwin;-769;+550;03 Nov 2013; 98;87 ;2013-2014
+Golden State Warriors;Sacramento Kings;Marathonbet;-909;+769;03 Nov 2013; 98;87 ;2013-2014
+Golden State Warriors;Sacramento Kings;Pinnacle;-714;+587;03 Nov 2013; 98;87 ;2013-2014
+Golden State Warriors;Sacramento Kings;William Hill;-833;+550;03 Nov 2013; 98;87 ;2013-2014
+Milwaukee Bucks;Toronto Raptors;bet-at-home;-111;-125;03 Nov 2013; 90;97 ;2013-2014
+Milwaukee Bucks;Toronto Raptors;bet365;+100;-120;03 Nov 2013; 90;97 ;2013-2014
+Milwaukee Bucks;Toronto Raptors;bwin;+100;-120;03 Nov 2013; 90;97 ;2013-2014
+Milwaukee Bucks;Toronto Raptors;Marathonbet;+110;-118;03 Nov 2013; 90;97 ;2013-2014
+Milwaukee Bucks;Toronto Raptors;Pinnacle;+100;-110;03 Nov 2013; 90;97 ;2013-2014
+Milwaukee Bucks;Toronto Raptors;William Hill;+100;-120;03 Nov 2013; 90;97 ;2013-2014
+New York Knicks;Charlotte Hornets;bet-at-home;-250;+185;25 Oct 2013; 83;85 ;2013-2014
+New York Knicks;Charlotte Hornets;bet365;-233;+190;25 Oct 2013; 83;85 ;2013-2014
+New York Knicks;Charlotte Hornets;bwin;-233;+190;25 Oct 2013; 83;85 ;2013-2014
+New York Knicks;Charlotte Hornets;Pinnacle;-208;+188;25 Oct 2013; 83;85 ;2013-2014
+New York Knicks;Charlotte Hornets;Unibet;-233;+188;25 Oct 2013; 83;85 ;2013-2014
+New York Knicks;Charlotte Hornets;William Hill;-222;+179;25 Oct 2013; 83;85 ;2013-2014
+Golden State Warriors;Portland Trail Blazers;bet-at-home;-182;+120;25 Oct 2013; 74;90 ;2013-2014
+Golden State Warriors;Portland Trail Blazers;bet365;-172;+150;25 Oct 2013; 74;90 ;2013-2014
+Golden State Warriors;Portland Trail Blazers;bwin;-167;+140;25 Oct 2013; 74;90 ;2013-2014
+Golden State Warriors;Portland Trail Blazers;Pinnacle;-167;+152;25 Oct 2013; 74;90 ;2013-2014
+Golden State Warriors;Portland Trail Blazers;Unibet;-172;+140;25 Oct 2013; 74;90 ;2013-2014
+Golden State Warriors;Portland Trail Blazers;William Hill;-161;+140;25 Oct 2013; 74;90 ;2013-2014
+Detroit Pistons;Minnesota Timberwolves;bet-at-home;-143;-105;24 Oct 2013; 99;98 ;2013-2014
+Detroit Pistons;Minnesota Timberwolves;bet365;-147;+125;24 Oct 2013; 99;98 ;2013-2014
+Detroit Pistons;Minnesota Timberwolves;bwin;-143;+120;24 Oct 2013; 99;98 ;2013-2014
+Detroit Pistons;Minnesota Timberwolves;Pinnacle;-123;+110;24 Oct 2013; 99;98 ;2013-2014
+Detroit Pistons;Minnesota Timberwolves;Unibet;-139;+114;24 Oct 2013; 99;98 ;2013-2014
+Detroit Pistons;Minnesota Timberwolves;William Hill;-141;+120;24 Oct 2013; 99;98 ;2013-2014
+Sacramento Kings;Golden State Warriors;bet-at-home;-105;-143;24 Oct 2013; 91;90 ;2013-2014
+Sacramento Kings;Golden State Warriors;bet365;+114;-135;24 Oct 2013; 91;90 ;2013-2014
+Sacramento Kings;Golden State Warriors;bwin;+114;-137;24 Oct 2013; 91;90 ;2013-2014
+Sacramento Kings;Golden State Warriors;Pinnacle;+118;-130;24 Oct 2013; 91;90 ;2013-2014
+Sacramento Kings;Golden State Warriors;Unibet;+104;-127;24 Oct 2013; 91;90 ;2013-2014
+Sacramento Kings;Golden State Warriors;William Hill;+100;-120;24 Oct 2013; 91;90 ;2013-2014
+Chicago Bulls;Detroit Pistons;bet-at-home;-167;+110;17 Oct 2013; 96;81 ;2013-2014
+Chicago Bulls;Detroit Pistons;bet365;-161;+140;17 Oct 2013; 96;81 ;2013-2014
+Chicago Bulls;Detroit Pistons;bwin;-161;+135;17 Oct 2013; 96;81 ;2013-2014
+Chicago Bulls;Detroit Pistons;Pinnacle;-156;+142;17 Oct 2013; 96;81 ;2013-2014
+Chicago Bulls;Detroit Pistons;Unibet;-154;+125;17 Oct 2013; 96;81 ;2013-2014
+Chicago Bulls;Detroit Pistons;William Hill;-149;+129;17 Oct 2013; 96;81 ;2013-2014
+Indiana Pacers;Dallas Mavericks;bet-at-home;-250;+170;16 Oct 2013; 85;92 ;2013-2014
+Indiana Pacers;Dallas Mavericks;bet365;-200;+170;16 Oct 2013; 85;92 ;2013-2014
+Indiana Pacers;Dallas Mavericks;bwin;-189;+154;16 Oct 2013; 85;92 ;2013-2014
+Indiana Pacers;Dallas Mavericks;Pinnacle;-179;+161;16 Oct 2013; 85;92 ;2013-2014
+Indiana Pacers;Dallas Mavericks;Unibet;-233;+185;16 Oct 2013; 85;92 ;2013-2014
+Indiana Pacers;Dallas Mavericks;William Hill;-222;+179;16 Oct 2013; 85;92 ;2013-2014
+Toronto Raptors;New York Knicks;bet365;+104;-125;21 Oct 2013;123;120;2013-2014
+Toronto Raptors;New York Knicks;bwin;+100;-120;21 Oct 2013;123;120;2013-2014
+Toronto Raptors;New York Knicks;Pinnacle;+110;-120;21 Oct 2013;123;120;2013-2014
+Toronto Raptors;New York Knicks;Unibet;+104;-125;21 Oct 2013;123;120;2013-2014
+Toronto Raptors;New York Knicks;William Hill;+104;-125;21 Oct 2013;123;120;2013-2014
+Oklahoma City Thunder;Denver Nuggets;bet-at-home;-200;+135;16 Oct 2013;109;81 ;2013-2014
+Oklahoma City Thunder;Denver Nuggets;bet365;-156;+135;16 Oct 2013;109;81 ;2013-2014
+Oklahoma City Thunder;Denver Nuggets;bwin;-149;+125;16 Oct 2013;109;81 ;2013-2014
+Oklahoma City Thunder;Denver Nuggets;Pinnacle;-152;+137;16 Oct 2013;109;81 ;2013-2014
+Oklahoma City Thunder;Denver Nuggets;Unibet;-154;+125;16 Oct 2013;109;81 ;2013-2014
+Oklahoma City Thunder;Denver Nuggets;William Hill;-161;+140;16 Oct 2013;109;81 ;2013-2014
+Cleveland Cavaliers;Charlotte Hornets;bet-at-home;-200;+150;15 Oct 2013; 74;92 ;2013-2014
+Cleveland Cavaliers;Charlotte Hornets;bet365;-175;+154;15 Oct 2013; 74;92 ;2013-2014
+Cleveland Cavaliers;Charlotte Hornets;bwin;-189;+154;15 Oct 2013; 74;92 ;2013-2014
+Cleveland Cavaliers;Charlotte Hornets;Pinnacle;-175;+156;15 Oct 2013; 74;92 ;2013-2014
+Cleveland Cavaliers;Charlotte Hornets;Unibet;-182;+148;15 Oct 2013; 74;92 ;2013-2014
+Cleveland Cavaliers;Charlotte Hornets;William Hill;-179;+160;15 Oct 2013; 74;92 ;2013-2014
