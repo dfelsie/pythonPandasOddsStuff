@@ -85,7 +85,7 @@ for jsonRow in jsonDf.iterrows():
         pprint(jsonRow[1])
         print("Error!")   """  
 newDf=pd.DataFrame(dictList, columns=colNames)
-newDf.to_csv('rawData/combinationfirsttry3.csv',index=False)
+newDf.to_csv('rawData/pandasData.csv',index=False)
 
 nicePrintTotalLossAndAvg("Elo Log Loss",newDf['eloLogLoss'].sum(),newDf['eloLogLoss'].mean())
 nicePrintTotalLossAndAvg("Raptor Log Loss",newDf['raptorLogLoss'].sum(),newDf['raptorLogLoss'].mean())
